@@ -4,6 +4,7 @@ import HeroSection from "@/components/HeroSection";
 import ServiceSection from "@/components/ServiceSection";
 import PowerStationCard from "@/components/PowerStationCard";
 import Footer from "@/components/Footer";
+import { Phone } from "lucide-react";
 
 const Index = () => {
   // Sample data for power station cards
