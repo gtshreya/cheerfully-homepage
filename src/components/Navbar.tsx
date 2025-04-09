@@ -26,8 +26,8 @@ const Navbar = () => {
     <nav className="py-4 px-6 md:px-8 bg-white dark:bg-gray-900 shadow-sm">
       <div className="container mx-auto flex justify-between items-center">
         <div className="flex items-center">
-          <h1 className="text-2xl font-bold text-energy-blue dark:text-energy-blue">
-            PowerStation
+          <h1 className="text-5xl font-bold text-energy-blue dark:text-energy-blue">
+            ChargeEase
           </h1>
         </div>
 
